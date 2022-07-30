@@ -1,5 +1,7 @@
 # pinia-getter-issue
 
+**This is a reproduction repository for https://github.com/vuejs/pinia/issues/1493.**
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
